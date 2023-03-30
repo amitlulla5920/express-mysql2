@@ -48,7 +48,8 @@ input[type=email]:focus {
 /* Set a style for the submit button */
 
 .registerbtn {
-    background-color: #004d30;
+    background: rgb(84, 15, 222);
+    background: linear-gradient(90deg, rgba(84, 15, 222, 1) 20%, rgb(1, 140, 168) 100%);
     color: white;
     margin: 8px 0;
     padding: 6px 8px;
